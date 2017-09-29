@@ -1,0 +1,30 @@
+#main{
+    width: 900px;
+    height: 700px;
+    overflow: scroll;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#sidebar{
+    width: 250px;
+    height: 600px;
+    padding: 10px;
+    text-align: center;
+    border: solid red 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+}
